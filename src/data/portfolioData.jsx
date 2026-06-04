@@ -118,7 +118,7 @@ export const projectsData = [
     github: 'https://github.com/Lakshmi-Pramode/Nutrishe',
     live: '#',
     featured: false,
-    image: '/assets/projects/healthcare.png',
+    image: '/assets/projects/nutrishe.png',
   },
 ]
 
