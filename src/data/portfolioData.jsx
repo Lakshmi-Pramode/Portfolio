@@ -283,7 +283,7 @@ const MailIcon = (
 
 export const contactLinks = [
   { icon: MailIcon, label: 'Email', value: 'lakshmipramode2345@gmail.com', href: 'mailto:lakshmipramode2345@gmail.com' },
-  { icon: LinkedinIcon, label: 'LinkedIn', value: 'lakshmi-pramode', href: 'https://www.linkedin.com/in/lakshmi-pramode.com' },
+  { icon: LinkedinIcon, label: 'LinkedIn', value: 'lakshmi-pramode', href: 'https://www.linkedin.com/in/lakshmi-pramode' },
   { icon: GithubIcon, label: 'GitHub', value: 'Lakshmi-Pramode', href: 'https://github.com/Lakshmi-Pramode' },
 ]
 
