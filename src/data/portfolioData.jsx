@@ -10,7 +10,7 @@ export const siteConfig = {
   name: 'Lakshmi Pramode',
   logo: '<Lakshmi />',
   title: 'Computer Science Engineering Student | MERN Stack Developer | Product Engineering Enthusiast',
-  resumePath: '/assets/resume/resume.pdf',
+  resumePath: '/assets/resume/resume.pdf?v=20260627',
   profileImage: '/assets/profile/avatar.jpg',
 }
 
