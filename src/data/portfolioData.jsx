@@ -28,7 +28,7 @@ export const heroData = {
 export const aboutData = {
   heading: 'Building Impactful Solutions',
   paragraphs: [
-    "I am a Computer Science Engineering student from St. Joseph's College of Engineering and Technology, Palai. My academic journey has been marked by a strong pursuit of excellence, reflected in my CGPA of 9.32 and a Minor Degree in Robotics and Automation.",
+    "I am a Computer Science Engineering student from St. Joseph's College of Engineering and Technology, Palai. My academic journey has been marked by a strong pursuit of excellence, reflected in my CGPA of 9.34 and a Minor Degree in Robotics and Automation.",
     "I am deeply passionate about Full Stack Development, AI-driven Systems, and Product Engineering. Whether I'm crafting robust backend systems or designing intuitive frontends, my goal is to create scalable software that solves meaningful problems.",
   ],
   interests: [
@@ -120,9 +120,29 @@ export const projectsData = [
     featured: false,
     image: '/assets/projects/nutrishe.png',
   },
+  {
+    title: 'Qure',
+    tag: 'MERN Stack',
+    desc: 'Developed an AI-powered system for appointment booking and real-time queue tracking.Implemented role-based access control to manage patient and doctor interactions.',
+    tech: ['React', 'Express.js', 'Node.js', 'MongoDB', 'Gemini API'],
+    github: 'https://github.com/Lakshmi-Pramode/Qure',
+    live: '#',
+    featured: false,
+    image: '/assets/projects/healthcare.png',
+  },
 ]
 
 export const experienceData = [
+  {
+    date: 'June 2026',
+    title: 'Cognitive Assessment Intern',
+    company: 'Mentiscope Incubated at Nirmaan, IIT Madras',
+    desc: [
+      'Worked on behavioral analytics and cognitive profiling systems using AI concepts.',
+      'Developed user-centric interfaces for evaluation and analysis.',
+      'Collaborated on AI-based solutions to enhance user experience.',
+    ],
+  },
   {
     date: 'June 2025 – July 2025',
     title: 'Full Stack Developer Intern',
@@ -151,7 +171,7 @@ export const educationData = [
     title: 'B.Tech Computer Science and Engineering',
     company: "St. Joseph's College of Engineering and Technology, Palai",
     desc: [
-      'CGPA: 9.32',
+      'CGPA: 9.34',
       'Consistently demonstrating academic excellence across core engineering subjects',
     ],
   },
@@ -194,7 +214,7 @@ export const achievementsData = [
 ]
 
 export const statsData = [
-  { number: 9, suffix: '.32', label: 'CGPA' },
+  { number: 9, suffix: '.34', label: 'CGPA' },
   { number: 4, suffix: '+', label: 'Major Projects' },
   { number: 7, suffix: '+', label: 'Certifications' },
   { number: 100, suffix: '%', label: 'Commitment' },
